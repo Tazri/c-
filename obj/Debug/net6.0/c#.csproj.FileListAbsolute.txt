@@ -1,0 +1,15 @@
+/home/tazri/Documents/work/c#/c#/bin/Debug/net6.0/c#
+/home/tazri/Documents/work/c#/c#/bin/Debug/net6.0/c#.deps.json
+/home/tazri/Documents/work/c#/c#/bin/Debug/net6.0/c#.runtimeconfig.json
+/home/tazri/Documents/work/c#/c#/bin/Debug/net6.0/c#.dll
+/home/tazri/Documents/work/c#/c#/bin/Debug/net6.0/c#.pdb
+/home/tazri/Documents/work/c#/c#/obj/Debug/net6.0/c#.csproj.AssemblyReference.cache
+/home/tazri/Documents/work/c#/c#/obj/Debug/net6.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/tazri/Documents/work/c#/c#/obj/Debug/net6.0/c#.AssemblyInfoInputs.cache
+/home/tazri/Documents/work/c#/c#/obj/Debug/net6.0/c#.AssemblyInfo.cs
+/home/tazri/Documents/work/c#/c#/obj/Debug/net6.0/c#.csproj.CoreCompileInputs.cache
+/home/tazri/Documents/work/c#/c#/obj/Debug/net6.0/c#.dll
+/home/tazri/Documents/work/c#/c#/obj/Debug/net6.0/refint/c#.dll
+/home/tazri/Documents/work/c#/c#/obj/Debug/net6.0/c#.pdb
+/home/tazri/Documents/work/c#/c#/obj/Debug/net6.0/c#.genruntimeconfig.cache
+/home/tazri/Documents/work/c#/c#/obj/Debug/net6.0/ref/c#.dll
