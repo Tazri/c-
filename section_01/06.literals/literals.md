@@ -74,3 +74,6 @@ String define with double qoutatoin. Here example :
 ```cs
 "This is string";
 ```
+----------------------
+[< Basic I/O](./../05.Basic_IO/basic_io.md) | [Procedural](./../section_01.md) | [Variable >](./../07.variable/variable.md)
+---------------------------

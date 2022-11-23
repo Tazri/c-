@@ -20,24 +20,24 @@ Here this part only explain value type :
 ## Value type
 Another name in value type is **premative** datatype. This is the basic type of c#. Here all premative data type : 
 
-- Boolean Type (keyword : bool) (vlaue : true,false)
+- Boolean Type (keyword : bool, space : 1bit) (vlaue : true,false)
 - Numeric Type
   - Integral Type (int)
     - Signed
-      - Signed byte (keyword : sbyte)
-      - Signed short (keyword : short)
-      - Signed int (keyword : int)
-      - Signed long (keyword : long)
+      - Signed byte (keyword : sbyte, space : 1bytes)
+      - Signed short (keyword : short, space : 2bytes)
+      - Signed int (keyword : int, space : 4bytes)
+      - Signed long (keyword : long, space : 8bytes)
     - Unsigned
-      - Unsigned byte (keyword : byte)
-      - Unsigned Short (keyword : ushort)
-      - Unsigned int (keyword : uint)
-      - Unsigned long (keyword : long)
-  - Floating Type (keydowrd : flaot)
-    - float (keyword : flaot) (must be append **f** or **F** in last position of number like 3.4f or 4.3F)
-    - double (keyword : double) (as your wish append **d** or **D** in last position of number)
-  - Decimal Type (keyword : decimal) (must be append **M** in last position.)
-- Character Type
+      - Unsigned byte (keyword : byte, space : 1bytes)
+      - Unsigned Short (keyword : ushort, space : 2bytes)
+      - Unsigned int (keyword : uint, space : 4bytes)
+      - Unsigned long (keyword : long, space : 8bytes)
+  - Floating Type (keydowrd : flaot, space : 4bytes)
+    - float (keyword : flaot, space : 4byte) (must be append **f** or **F** in last position of number like 3.4f or 4.3F)
+    - double (keyword : double, space: 8bytes) (as your wish append **d** or **D** in last position of number)
+    - Decimal Type (keyword : decimal, space: 16bytes) (must be append **M** in last position.)
+- Character Type (keyword : char, space : 2bytes)
 
 Example every data type in value : 
 
@@ -219,3 +219,9 @@ output :
 grade : a
 */
 ```
+
+<hr />
+<br />
+
+[< Literals](./../06.literals/literals.md) | [Procedural](./../section_01.md) | [Reference Type and Variable >](./../08.reference_type_and_variable_scope/reference_type_variable_scope.md)
+--------------------

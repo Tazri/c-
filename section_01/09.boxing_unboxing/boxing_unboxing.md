@@ -84,4 +84,7 @@ unboxThingInt : 3045
 ```
 
 <hr />
+<br />
 
+[< Reference Type and Variable Scope](./../08.reference_type_and_variable_scope/reference_type_variable_scope.md) | [Procedural](./../section_01.md) | [Operator >](./../10.operator/operaotr.md)
+---------

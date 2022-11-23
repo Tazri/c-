@@ -1,7 +1,7 @@
 Basic I/O Operation
 ====================
 Here discuss about : 
-- **[Alia](#allias)**
+- **[Allias](#allias)**
 - **[Output Method](#output-method)**
 - **[Input Method](#input-method)**
 - **[Output String Template](#output-string-template)**
@@ -209,4 +209,8 @@ $ csc/mcs  -out:output_file_destination input_file_destination /main:className
 $ # here compile start from className
 ```
 
+<hr />
+<br />
 
+[< Hello World](./../04/../04.hello_world/04.hello_world.md) | [Procedural](./../section_01.md) | [Literals >](./../06.literals/literals.md)
+--------------------------------

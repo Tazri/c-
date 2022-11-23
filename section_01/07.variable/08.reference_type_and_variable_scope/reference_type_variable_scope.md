@@ -38,7 +38,7 @@ C# defines several categories of variable based on scope. Here :
 - Array Elements.
 - Value Parameters.
 - Reference Parameters. (keyword : ref)
-- Output Parameters.
+- Output Parameters. (keyword : out)
 - Local Variable
 
 > 🔴 The scope of variable is region of code within which the variable can be accessed.
@@ -65,3 +65,8 @@ here :
 - a[0] as an array element.
 - j as a local variable of **fun** function.
 
+<hr />
+<br />
+
+[< Variable](./../07.variable/variable.md) | [Procedural](./../section_01.md) | [ Boxing Unboxing >](./../09.boxing_unboxing/boxing_unboxing.md)
+---------
